@@ -13,10 +13,10 @@ def line():
 
     dist = math.sqrt(((coX2 - coX3)**2) + ((coY1 - coY3)**2))
 
-    print(f"El coeficiente A de su ecuación de la recta es: {coA}")
-    print(f"El coeficiente A de su ecuación de la recta es: {coB}")
-    print(f"El coeficiente A de su ecuación de la recta es: {coX1}")
-    print(f"El coeficiente A de su ecuación de la recta es: {coX2}")
+    print(f"El coeficiente A de su ecuacion de la recta es: {coA}")
+    print(f"El coeficiente B de su ecuacion de la recta es: {coB}")
+    print(f"El coeficiente X1 de su ecuacion de la recta es: {coX1}")
+    print(f"El coeficiente X2 de su ecuacion de la recta es: {coX2}")
 
     print("\nPara la siguiente ecuacion:")
     print(f"\t Y = {coA}X + {coB}")
